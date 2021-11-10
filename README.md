@@ -4,6 +4,10 @@ I like to do things I like, such as learning and helping people!
 
 In love with the terminal, and some low-level things.
 
+## Contact
+
+[Email me][email]
+
 ## Projects I'm working on
 
 * An unfinished game (made in NodeJS) I don't touch since last year
@@ -19,9 +23,7 @@ In love with the terminal, and some low-level things.
   * Vue.js
 * Python
 * C/C++
-* Java
-* Lua
-* A bit of Swift
+* Some other things...
 * Math
 
 ## Idioms
@@ -30,6 +32,7 @@ In love with the terminal, and some low-level things.
 * English
 * Japanese (well no, I remember like 10 kanji at most)
 
+[email]: mailto:amyuki4@gmail.com
 [web-greeter]: https://github.com/JezerM/web-greeter
 [nody-greeter]: https://github.com/JezerM/nody-greeter
 [i3lock-color]: https://github.com/Raymo111/i3lock-color
