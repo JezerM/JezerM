@@ -14,6 +14,7 @@ In love with the terminal, and some low-level things.
 * [web-greeter][web-greeter]
 * [nody-greeter][nody-greeter]
 * [sea-greeter][sea-greeter]
+* A RSS reader for macOS
 * Helping with [i3lock-color][i3lock-color]
 * And some other open-source projects
 
