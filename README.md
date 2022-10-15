@@ -23,8 +23,12 @@ In love with the terminal, and some low-level things.
 * Web development:
   * TypeScript (JavaScript)
   * Vue.js
+  * Svelte
+  * React.js
 * Python
 * C/C++
+* C#
+* Java/Kotlin
 * Some other things...
 * Math
 
