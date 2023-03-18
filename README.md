@@ -4,6 +4,9 @@ I like to do things I like, such as learning and helping people!
 
 In love with the terminal, and some low-level things.
 
+NOTE: I'm currently fighting with Windows VMs due to college nonsense, so I can't develop
+my own Linux stuff. I'll be back later in June~
+
 ## Contact
 
 [Email me][email]
