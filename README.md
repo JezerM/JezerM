@@ -35,7 +35,7 @@ my own Linux stuff. I'll be back later in June~
 * 🇺🇸 English
 * 🇯🇵 Japanese (well no, I remember like 10 kanji at most)
 
-[email]: mailto:amyuki4@gmail.com
+[email]: mailto:jezer.mejia@icloud.com
 [web-greeter]: https://github.com/JezerM/web-greeter
 [nody-greeter]: https://github.com/JezerM/nody-greeter
 [sea-greeter]: https://github.com/JezerM/sea-greeter
