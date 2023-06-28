@@ -6,6 +6,7 @@ In love with the terminal, and some low-level things.
 
 NOTE: I'm currently fighting with Windows VMs due to college nonsense, so I can't develop
 my own Linux stuff. I'll be back later in June~
+NOTE 2: Yeah... still busy. Not even in June. Maybe, perhaps, I'd be back in August.
 
 ## Contact
 
