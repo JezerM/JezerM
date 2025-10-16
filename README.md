@@ -19,11 +19,11 @@ In love with the terminal, and some low-level things.
 
 ## Things I know
 
-- 🌐 TypeScript, Vue.js, Svelte, React.js
-- ⚙️ C/C++, Rust, C#, Python
-- 📱 Swift, Java/Kotlin
+- 🌐 TypeScript, Vue, Svelte, React, Ember
+- ⚙️ C/C++, Rust, C#, Python, Ruby
+- 📱 Swift, Java/Kotlin, React Native
 - 🛠 Git, GNU Make, Meson & Ninja
-- 📝 The mighty and unique... neovim.
+- 📝 The mighty and unique... neovim
 - 💾 SQL Server, MySQL, PostgreSQL
 - 🖥 Linux, macOS
 - 🧮 Math
@@ -32,7 +32,7 @@ In love with the terminal, and some low-level things.
 
 - 🇳🇮 Spanish (main)
 - 🇺🇸 English
-- 🇯🇵 Japanese (well no, I remember like 10 kanji at most)
+- 🇯🇵 Japanese (I remember like 10 kanji at most)
 
 [email]: mailto:jezer.mejia@icloud.com
 [web-greeter]: https://github.com/JezerM/web-greeter
