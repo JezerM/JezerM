@@ -2,7 +2,7 @@
 
 I like to do things I like, such as learning and helping people!
 
-In love with the terminal, and some low-level things.
+Profile picture made by [Tsugumi](https://vgen.co/tsugumiu7).
 
 #SOSNicaragua 🇳🇮
 
@@ -20,7 +20,7 @@ In love with the terminal, and some low-level things.
 ## Things I know
 
 - 🌐 TypeScript, Vue, Svelte, React, Ember
-- ⚙️ C/C++, Rust, C#, Python, Ruby
+- ⚙️ C/C++, Rust, C#, Python, Ruby on Rails
 - 📱 Swift, Java/Kotlin, React Native
 - 🛠 Git, GNU Make, Meson & Ninja
 - 📝 The mighty and unique... neovim
