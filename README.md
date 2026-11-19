@@ -13,7 +13,6 @@ Profile picture made by [Tsugumi](https://vgen.co/tsugumiu7).
 ## Projects I'm working on
 
 - 🌐 [web-greeter][web-greeter], [nody-greeter][nody-greeter], [sea-greeter][sea-greeter]
-- An AR Minecraft game for iOS
 - Some stuff with Linux, and some others with macOS and iOS
 - ❤️ Some other open-source projects
 
@@ -27,12 +26,6 @@ Profile picture made by [Tsugumi](https://vgen.co/tsugumiu7).
 - 💾 SQL Server, MySQL, PostgreSQL
 - 🖥 Linux, macOS
 - 🧮 Math
-
-## Idioms
-
-- 🇳🇮 Spanish (main)
-- 🇺🇸 English
-- 🇯🇵 Japanese (I remember like 10 kanji at most)
 
 [email]: mailto:jezer.mejia@icloud.com
 [web-greeter]: https://github.com/JezerM/web-greeter
